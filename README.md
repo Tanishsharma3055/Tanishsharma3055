@@ -21,12 +21,7 @@ Passionate about building intelligent solutions, exploring Machine Learning, and
 
 **Libraries:** NumPy • Pandas • Scikit-learn • Matplotlib
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tanishsharma3055&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishsharma3055&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ### 📬 Connect With Me
 

@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tanish Sharma!
 
-### 🤖 Aspiring AI/ML Engineer | Python Developer
+### 🤖 Aspiring AI/ML Engineer
 
 🎓 CSE (AI & ML) Student at Chandigarh University, India.
 
